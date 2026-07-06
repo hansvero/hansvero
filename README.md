@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I'm Farhan<br><br><br><br>💻 Informatics undergraduate passionate about Software Engineering, Full-Stack Web Development, and Artificial Intelligence.<br><br><br><br>## 🚀 About Me<br><br><br><br>* 🎓 Informatics Undergraduate at Ahmad Dahlan University (UAD)<br><br>* 🌱 Currently learning **Full-Stack Web Development, React, and Machine Learning**<br><br>* 🚀 Planning to explore **Full-Stack AI Development** and modern AI technologies<br><br>* 💡 Interested in **Software Engineering, Backend Development, Artificial Intelligence, and Machine Learning**<br><br>* 🛠️ Building academic and personal projects to strengthen my programming, problem-solving, and software development skills<br><br>* 📚 Continuously learning modern technologies and best practices in software development<br><br>* 🤝 Open to collaboration on open-source and learning projects<br><br><br><br>## 🧰 Tech Stack<br><br><br><br>### 💻 Programming Languages<br><br><br><br>* JavaScript<br><br>* C++<br><br>* Python<br><br><br><br>### ⚛️ Frontend<br><br><br><br>* React<br><br>* Bootstrap<br><br><br><br>### ⚙️ Backend<br><br><br><br>* Node.js<br><br>* Express.js<br><br><br><br>### 🗄️ Database<br><br><br><br>* MySQL<br><br><br><br>### 🛠️ Tools & Technologies<br><br><br><br>* Git<br><br>* GitHub<br><br>* Visual Studio Code<br><br>* REST API<br><br><br><br>## 📖 Currently Learning<br><br><br><br>* 🌐 Full-Stack Web Development<br><br>* ⚛️ React Ecosystem<br><br>* 🤖 Machine Learning<br><br>* 🧠 Full-Stack AI Development *(Next Learning Goal)*<br><br><br><br>## 🎯 Goals<br><br><br><br>* 🚀 Build scalable and impactful software solutions<br><br>* 💻 Become a skilled Software Engineer<br><br>* 🤖 Develop AI-powered applications<br><br>* 🌍 Contribute to open-source projects<br><br>* 📈 Continuously improve through learning and real-world projects<br><br><br><br>## 📫 Connect with Me<br><br><br><br>* 💼 LinkedIn: *www.linkedin.com/in/hanscloud9*<br><br>* 📧 Email: *farhanurbae@gmail.com* 
 
-<!--
-**hansvero/hansvero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hansvero&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hansvero&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hansvero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=hansvero&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
