@@ -1,1 +1,2 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=600&pause=1000&width=700&lines=Hi%2C+I'm+Farhan+%F0%9F%91%8B;Software+Engineering+Student;Full-Stack+Web+Developer;AI+%26+Machine+Learning+Learner)](https://git.io/typing-svg)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=hansvero)](https://github.com/stats-organization/github-stats-extended)
